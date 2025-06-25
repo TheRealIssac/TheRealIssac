@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
 ## 🔧 Skills
 
 - **Programming Languages**:  
-  - C, C++, Javascript, Typescript, Python, Java, Go
+  - C, C++, Javascript, Typescript
   
 - **Web Development**:  
   - Frontend: React, NextJS, Tailwind CSS
@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
 
 ## 🌱 Currently Learning
 
-- Dart
+- Python
 
 ## 📫 How to reach me:
 
