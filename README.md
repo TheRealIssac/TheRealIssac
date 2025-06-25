@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Issac 👋
 
-<!--
-**TheRealIssac/TheRealIssac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer always eager to learn and create.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**:  
+  - C, C++, Javascript, Typescript, Python, Java, Go
+  
+- **Web Development**:  
+  - Frontend: React, NextJS, Tailwind CSS
+  - Backend: Node.JS, ExpressJS
+
+- **Databases**:  
+  - SQL, MongoDB, Firebase
+
+- **Tools & Technologies**:  
+  - Git, Docker, Webpack, VS Code
+
+## 📈 GitHub Stats
+
+![Issac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealIssac&show_icons=true&hide_title=true)
+
+## 🌱 Currently Learning
+
+- Dart
+
+## 📫 How to reach me:
+
+- **Discord**: 70io
+- **Twitter**: @IssacFreshAF
+
+---
+
+Thanks for visiting my profile! Let's connect and collaborate. 🤝
