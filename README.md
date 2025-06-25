@@ -8,8 +8,8 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
   - C, C++, Javascript, Typescript
   
 - **Web Development**:  
-  - Frontend: React, NextJS, Tailwind CSS
-  - Backend: Node.JS, ExpressJS
+  - Frontend: React, NextJS
+  - Backend: Node.JS
 
 - **Databases**:  
   - SQL, MongoDB, Firebase
@@ -24,6 +24,8 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
 ## 🌱 Currently Learning
 
 - Python
+- Tailwind CSS
+- ExpressJS
 
 ## 📫 How to reach me:
 
