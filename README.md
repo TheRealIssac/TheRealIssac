@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
   - Backend: Node.JS
 
 - **Databases**:  
-  - SQL, MongoDB, Firebase
+  - SQL, MongoDB
 
 - **Tools & Technologies**:  
   - Git, Docker, Webpack, VS Code
