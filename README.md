@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
   - Typescript, Lua
   
 - **Web Development**:  
-  - Frontend: React, NextJS
+  - Frontend: React
   - Backend: Node.JS
 
 - **Databases**:  
